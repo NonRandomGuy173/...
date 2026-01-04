@@ -113,7 +113,7 @@ local OwnerNames = {
 
 local OwnerUserIds = {
 	[433636433] = true,
-	[196988708] = true,
+	[2440542440] = true,
 	[4926923208] = true,
 }
 
